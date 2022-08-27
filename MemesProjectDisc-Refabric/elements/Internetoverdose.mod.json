@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "INTERNET OVERDOSE(NEEDY GIRL OVERDOSE Main Theme)",
+    "description": "KOTOKO-INTERNET OVERDOSE",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:internet_overdose"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

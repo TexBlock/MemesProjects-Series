@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "UNDERWORLD",
+    "description": "Lezel - UNDERWORLD",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:underworld"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

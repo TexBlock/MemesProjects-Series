@@ -1,0 +1,74 @@
+{
+  "chikichikibanban_tv_ver": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:chikichikibanban_tv_ver",
+        "stream": true
+      }
+    ]
+  },
+  "internet_overdose": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:internet_overdose",
+        "stream": true
+      }
+    ]
+  },
+  "moodhigh_1st": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:moodhigh_1st",
+        "stream": true
+      }
+    ]
+  },
+  "moodhigh_2nd": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:moodhigh_2nd",
+        "stream": true
+      }
+    ]
+  },
+  "only_my_railgun": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:only_my_railgun",
+        "stream": true
+      }
+    ]
+  },
+  "moodhigh_full_ver": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:moodhigh_full_ver",
+        "stream": true
+      }
+    ]
+  },
+  "moodhigh_original": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:moodhigh_original",
+        "stream": true
+      }
+    ]
+  },
+  "chikichikibanban_full": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:chikichikibanban_full_ver",
+        "stream": true
+      }
+    ]
+  }
+}

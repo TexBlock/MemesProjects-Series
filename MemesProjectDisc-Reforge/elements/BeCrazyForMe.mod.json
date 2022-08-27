@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "Be Crazy For Me",
+    "description": "EIKO starring Neko96 - Be Crazy For Me",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:be_crazy_for_me"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

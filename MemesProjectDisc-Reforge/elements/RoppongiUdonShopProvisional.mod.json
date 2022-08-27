@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "六本木うどん屋（仮）",
+    "description": "EIKO starring 96猫 - 六本木うどん屋（仮）",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:roppongi_udon_shop_provisional"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

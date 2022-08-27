@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "ChocoPate",
+    "description": "AZALEA (久遠七海 starring Lezel) - ChocoPate",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:choco_pate"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

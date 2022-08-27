@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "I'm still alive today acoustic ver",
+    "description": "EIKO starring Neko96 - I'm still alive today acoustic ver",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:im_still_alive_today_acoustic"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {},
+    "zh_cn": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesprojectdisc",
+    "modName": "MemesProjectDisc-Fabric",
+    "version": "0.1.0(Alpha1)",
+    "author": "TexTrue,TexTrueStudio,MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.texstudio.memesprojectdisc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

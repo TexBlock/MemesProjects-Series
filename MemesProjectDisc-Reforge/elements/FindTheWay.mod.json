@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "Find the way",
+    "description": "EIKO starring Neko96 - Find the way",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:find_the_way"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

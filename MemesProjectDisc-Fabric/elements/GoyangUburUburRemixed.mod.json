@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "goyanguburuburremixed",
+    "name": "Goyang Ubur Ubur Remixed",
+    "description": "GoyangUburUburRemixed-HendroEngkeng",
+    "creativeTab": {
+      "value": "CUSTOM:MPD"
+    },
+    "music": {
+      "value": "CUSTOM:goyang_ubur_ubur_remixed"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

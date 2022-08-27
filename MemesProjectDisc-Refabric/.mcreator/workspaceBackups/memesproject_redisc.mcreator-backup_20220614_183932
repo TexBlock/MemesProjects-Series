@@ -1,0 +1,128 @@
+{
+  "mod_elements": [
+    {
+      "name": "OnlyMyRailgun",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "only_my_railgun"
+    },
+    {
+      "name": "Internetoverdose",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "internetoverdose"
+    },
+    {
+      "name": "PartypiKongED",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "partypi_kong_ed"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "chikichikibanban_tv_ver",
+      "files": [
+        "chikichikibanban_tv_ver"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "internet_overdose",
+      "files": [
+        "internet_overdose"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "moodhigh_1st",
+      "files": [
+        "moodhigh_1st"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "moodhigh_2nd",
+      "files": [
+        "moodhigh_2nd"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "only_my_railgun",
+      "files": [
+        "only_my_railgun"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "moodhigh_full_ver",
+      "files": [
+        "moodhigh_full_ver"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "moodhigh_original",
+      "files": [
+        "moodhigh_original"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.memesproject_redisc.partypi_kong_ed.desc": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）-気分上々↑↑",
+      "item.memesproject_redisc.only_my_railgun": "fripSide-Only My Railgun",
+      "subtitles.moodhigh_original": "",
+      "subtitles.moodhigh_full_ver": "",
+      "subtitles.chikichikibanban_tv_ver": "",
+      "subtitles.internet_overdose": "",
+      "subtitles.moodhigh_1st": "",
+      "subtitles.only_my_railgun": "",
+      "item.memesproject_redisc.partypi_kong_ed": "気分上々↑↑(Partypi Kong ED)",
+      "item.memesproject_redisc.internetoverdose": "INTERNET OVERDOSE(NEEDY GIRL OVERDOSE Main Theme)",
+      "item.memesproject_redisc.internetoverdose.desc": "KOTOKO-INTERNET OVERDOSE",
+      "item.memesproject_redisc.only_my_railgun.desc": "fripSide-Only My Railgun",
+      "subtitles.moodhigh_2nd": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesproject_redisc",
+    "modName": "MemesProject Disc Refabric",
+    "version": "0.0.1-alpha1",
+    "author": "TexTrue, TexTrueStudio",
+    "websiteURL": "https://github.com/TexTrueStudio/MemesProjectDisc-Refabric",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "???",
+    "modElementsPackage": "net.texstudio.memesprojectredisc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

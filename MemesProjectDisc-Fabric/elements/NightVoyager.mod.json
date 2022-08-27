@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nightvoyager",
+    "name": "Night Voyager",
+    "description": "NightVoyager-不才/三体宇宙",
+    "creativeTab": {
+      "value": "CUSTOM:MPD"
+    },
+    "music": {
+      "value": "CUSTOM:night_voyager"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

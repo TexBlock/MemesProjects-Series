@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "Only My Railgun(A Certain Scientific Railgun S1 OP1)",
+    "description": "fripSide-Only My Railgun",
+    "creativeTab": {
+      "value": "CUSTOM:Misc"
+    },
+    "music": {
+      "value": "CUSTOM:only_my_railgun"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

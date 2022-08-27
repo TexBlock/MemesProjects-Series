@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "bad_apple",
+    "name": "Bad Apple!!",
+    "description": "BadApple!!-Á€¿÷á‚§Œös ∑1-…œ∫£•¢•Í•πª√ò∑á‚",
+    "creativeTab": {
+      "value": "CUSTOM:MPD"
+    },
+    "music": {
+      "value": "CUSTOM:bad_apple"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "shootingstars",
+    "name": "Shooting Stars",
+    "description": "Shooting Stars-Bag Raiders",
+    "creativeTab": {
+      "value": "CUSTOM:MPD"
+    },
+    "music": {
+      "value": "CUSTOM:shooting_stars"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

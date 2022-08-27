@@ -1,0 +1,429 @@
+{
+  "mod_elements": [
+    {
+      "name": "OnlyMyRailgun",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "only_my_railgun"
+    },
+    {
+      "name": "InternetOverdose",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "internet_overdose"
+    },
+    {
+      "name": "ParipiKoumei",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "paripi_koumei"
+    },
+    {
+      "name": "DREAMER",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dreamer"
+    },
+    {
+      "name": "BeCrazyForMe",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "be_crazy_for_me"
+    },
+    {
+      "name": "UNDERWORLD",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "underworld"
+    },
+    {
+      "name": "ShootingStar",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shooting_star"
+    },
+    {
+      "name": "Misc",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "misc"
+    },
+    {
+      "name": "UNDERWORLDEIKOVer",
+      "type": "musicdisc",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "underworldeiko_ver"
+    },
+    {
+      "name": "Makeitreal",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "makeitreal"
+    },
+    {
+      "name": "ChocoPate",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "choco_pate"
+    },
+    {
+      "name": "ImStillAliveToday",
+      "type": "musicdisc",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "im_still_alive_today"
+    },
+    {
+      "name": "FindTheWay",
+      "type": "musicdisc",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "find_the_way"
+    },
+    {
+      "name": "ImStillAliveTodayNanami",
+      "type": "musicdisc",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "im_still_alive_today_nanami"
+    },
+    {
+      "name": "ImStillAliveTodayEIKONanami",
+      "type": "musicdisc",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "im_still_alive_today_eiko_nanami"
+    },
+    {
+      "name": "ImStillAliveTodayAcoustic",
+      "type": "musicdisc",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "im_still_alive_today_acoustic"
+    },
+    {
+      "name": "RoppongiUdonShopProvisional",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roppongi_udon_shop_provisional"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "egg_breaked",
+      "files": [
+        "my_chicken_is_eight_years_old"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "internet_overdose",
+      "files": [
+        "kotoko-internet_overdose"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "only_my_railgun",
+      "files": [
+        "only_my_railgun"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "be_crazy_for_me",
+      "files": [
+        "be_crazy_for_me"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "bad_apple_original",
+      "files": [
+        "bad_apple_original"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "bad_apple",
+      "files": [
+        "bad_apple"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "never_gonna_give_you_up",
+      "files": [
+        "never_gonna_give_you_up"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "freesia",
+      "files": [
+        "freesia"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "go_yang_ubur_ubur_remixed",
+      "files": [
+        "go_yang_ubur_ubur_remixed"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "night_voyager",
+      "files": [
+        "night_voyager"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "shooting_stars",
+      "files": [
+        "shooting_stars"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "dreamer",
+      "files": [
+        "dreamer"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "underworld",
+      "files": [
+        "underworld"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "underworld_eiko",
+      "files": [
+        "underworld_eiko_ver"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "shooting_star",
+      "files": [
+        "shooting_star"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "make_it_real",
+      "files": [
+        "make_it_real"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "choco_pate",
+      "files": [
+        "chocopate"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "im_still_alive_today",
+      "files": [
+        "im_still_alive_today"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "find_the_way",
+      "files": [
+        "find_the_way"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "im_still_alive_today_eiko_nanami",
+      "files": [
+        "im_still_alive_today_eikonanami_ver"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "im_still_alive_today_nanami",
+      "files": [
+        "im_still_alive_today_nanami_ver"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "im_still_alive_today_acoustic",
+      "files": [
+        "im_still_alive_today_acoustic_ver"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "roppongi_udon_shop_provisional",
+      "files": [
+        "roppongi_udon_shop_provisional"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.make_it_real": "",
+      "item.memesproject_redisc.be_crazy_for_me.desc": "EIKO starring Neko96 - Be Crazy For Me",
+      "subtitles.im_still_alive_today_eiko_nanami": "",
+      "subtitles.partypi_kongmei_ed2nd": "",
+      "item.memesproject_redisc.shooting_star": "Shooting Star",
+      "subtitles.partypi_kongmei_op": "",
+      "subtitles.freesia": "",
+      "item.memesproject_redisc.makeitreal": "Make it real",
+      "item.memesproject_redisc.roppongi_udon_shop_provisional.desc": "EIKO starring 96猫 - 六本木うどん屋（仮）",
+      "item.memesproject_redisc.internet_overdose.desc": "KOTOKO-INTERNET OVERDOSE",
+      "subtitles.paripi_koumei_ed": "",
+      "subtitles.choco_pate": "",
+      "subtitles.partypi_kongming_op": "",
+      "subtitles.shooting_stars": "",
+      "subtitles.underworld_eiko": "",
+      "item.memesproject_redisc.roppongi_udon_shop_provisional": "六本木うどん屋（仮）",
+      "subtitles.im_still_alive_today_nanami": "",
+      "item.memesproject_redisc.underworld": "UNDERWORLD",
+      "subtitles.paripikoumei_op": "",
+      "item.memesproject_redisc.be_crazy_for_me": "Be Crazy For Me",
+      "item.memesproject_redisc.underworldeiko_ver.desc": "EIKO starring Neko96 - UNDERWORLD EIKO Ver.",
+      "subtitles.internet_overdose": "",
+      "subtitles.roppongi_udon_shop_provisional": "",
+      "subtitles.shooting_star": "",
+      "item.memesproject_redisc.internet_overdose": "INTERNET OVERDOSE(NEEDY GIRL OVERDOSE Main Theme)",
+      "item.memesproject_redisc.im_still_alive_today.desc": "EIKO starring Neko96 - I\u0027m Still Alive Today",
+      "subtitles.paripi_koumei_op_full": "",
+      "item.memesproject_redisc.find_the_way": "Find the way",
+      "item.memesproject_redisc.im_still_alive_today_nanami.desc": "久遠七海 starring Lezel - I\u0027m still alive today Nanami ver",
+      "subtitles.never_gonna_give_you_up": "",
+      "subtitles.paripi_koumei_ed_2nd": "",
+      "subtitles.paripi_koumei_ed_full": "",
+      "item.memesproject_redisc.im_still_alive_today_eiko_nanami.desc": "EIKO starring Neko96 \u0026 久遠七海 starring Lezel - I\u0027m still alive today EIKO \u0026 Nanami ver",
+      "item.memesproject_redisc.im_still_alive_today_nanami": "I\u0027m still alive today Nanami ver",
+      "subtitles.im_still_alive_today_acoustic": "",
+      "subtitles.partypi_kongmei_edlite": "",
+      "item.memesproject_redisc.only_my_railgun": "Only My Railgun(A Certain Scientific Railgun S1 OP1)",
+      "subtitles.go_yang_ubur_ubur_remixed": "",
+      "item.memesproject_redisc.dreamer": "DREAMER",
+      "item.memesproject_redisc.dreamer.desc": "EIKO starring Neko96 - DREAMER",
+      "subtitles.dreamer": "",
+      "item.memesproject_redisc.shooting_star.desc": "EIKO starring Neko96 - Shooting Star",
+      "subtitles.partypi_kongmei_edoriginal": "",
+      "item.memesproject_redisc.im_still_alive_today": "I\u0027m Still Alive Today",
+      "item.memesproject_redisc.underworld.desc": "Lezel - UNDERWORLD",
+      "subtitles.chikichikibanban": "",
+      "item.memesproject_redisc.im_still_alive_today_acoustic.desc": "EIKO starring Neko96 - I\u0027m still alive today acoustic ver",
+      "subtitles.paripi_koumei_op": "",
+      "item.memesproject_redisc.find_the_way.desc": "EIKO starring Neko96 - Find the way",
+      "item.memesproject_redisc.im_still_alive_today_eiko_nanami": "I\u0027m still alive today EIKO \u0026 Nanami ver",
+      "item.memesproject_redisc.only_my_railgun.desc": "fripSide-Only My Railgun",
+      "subtitles.mood_high": "",
+      "subtitles.find_the_way": "",
+      "subtitles.partypi_kongmei_edfull": "",
+      "subtitles.night_voyager": "",
+      "item.memesproject_redisc.choco_pate": "ChocoPate",
+      "item.memesproject_redisc.choco_pate.desc": "AZALEA (久遠七海 starring Lezel) - ChocoPate",
+      "subtitles.partypi_kongming_opfull": "",
+      "subtitles.partypi_kongmei_opfull": "",
+      "itemGroup.tabparipi_koumei": "MemesProject ReDisc: Paripi Koumei",
+      "item.memesproject_redisc.underworldeiko_ver": "UNDERWORLD EIKO Ver.",
+      "subtitles.bad_apple_original": "",
+      "item.memesproject_redisc.im_still_alive_today_acoustic": "I\u0027m still alive today acoustic ver",
+      "subtitles.underworld": "",
+      "item.memesproject_redisc.makeitreal.desc": "MIA (CV.小林ゆう) - Make it real",
+      "subtitles.im_still_alive_today": "",
+      "subtitles.egg_breaked": "Mu Xiaoling - My chicken is eight years old",
+      "subtitles.bad_apple": "",
+      "itemGroup.tabmisc": "MemesProject ReDisc: Misc",
+      "subtitles.only_my_railgun": "",
+      "subtitles.partypi_kongmei_ed1st": "",
+      "subtitles.partypi_kongming_edfull": "",
+      "subtitles.be_crazy_for_me": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesproject_redisc",
+    "modName": "MemesProject Disc Reforge",
+    "version": "0.0.1-Alpha1.0",
+    "description": "MemesProject Disc Addon",
+    "author": "TexTrue",
+    "websiteURL": "https://github.com/TexBlock",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "MCreator",
+    "modElementsPackage": "net.texstudio.memesprojectredisc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

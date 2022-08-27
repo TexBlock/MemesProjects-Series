@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "memesproject:stone_grain_ingot"
+    },
+    "1": {
+      "item": "memesproject:stone_grain_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "memesproject:dull_blade",
+    "count": 1
+  }
+}

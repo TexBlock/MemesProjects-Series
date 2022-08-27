@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="memesproject"
+version="0.1.4(0.1b4)"
+displayName="MemesProject-Forge"
+credits="MCreator,TexTrue(block2333),TexTrueStudio"
+displayURL="https://github.com/block2333/MemesProject-Forge"
+logoFile="logo.png"
+authors="TexBlock2333,TexTrueStudio"
+
+[[dependencies.memesproject]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.memesproject]]
+    modId="Patchouli"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

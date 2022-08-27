@@ -1,0 +1,106 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bad_apple",
+      "files": [
+        "bad_apple"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "bad_apple2",
+      "files": [
+        "bad_apple_"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "goyang_ubur_ubur_remixed",
+      "files": [
+        "goyanguburuburremixed"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "never_gonna_give_you_up",
+      "files": [
+        "nevergonnagiveyouup"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "night_voyager",
+      "files": [
+        "nightvoyager"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "shooting_stars",
+      "files": [
+        "shootingstars"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "freesia",
+      "files": [
+        "uru-freesia"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.freesia": "",
+      "subtitles.bad_apple2": "",
+      "subtitles.night_voyager": "",
+      "subtitles.bad_apple": "",
+      "subtitles.goyang_ubur_ubur_remixed": "",
+      "subtitles.never_gonna_give_you_up": "",
+      "subtitles.shooting_stars": ""
+    },
+    "zh_cn": {
+      "subtitles.freesia": "",
+      "subtitles.bad_apple2": "",
+      "subtitles.night_voyager": "",
+      "subtitles.bad_apple": "",
+      "subtitles.goyang_ubur_ubur_remixed": "",
+      "subtitles.never_gonna_give_you_up": "",
+      "subtitles.shooting_stars": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesprojectdisc",
+    "modName": "MemesProjectDisc-Fabric",
+    "version": "0.1.0(Alpha1)",
+    "author": "TexTrue,TexTrueStudio,MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.texstudio.memesprojectdisc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100235315
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nevergonnagiveyouup",
+    "name": "Never Gonna Give You Up",
+    "description": "Never Gonna Give You Up-Rick Astley",
+    "creativeTab": {
+      "value": "CUSTOM:MPD"
+    },
+    "music": {
+      "value": "CUSTOM:never_gonna_give_you_up"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

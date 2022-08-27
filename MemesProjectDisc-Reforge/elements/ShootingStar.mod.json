@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "Shooting Star",
+    "description": "EIKO starring Neko96 - Shooting Star",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:shooting_star"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

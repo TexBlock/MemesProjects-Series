@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "UNDERWORLD EIKO Ver.",
+    "description": "EIKO starring Neko96 - UNDERWORLD EIKO Ver.",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:underworld_eiko"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

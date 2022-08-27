@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="memesproject_redisc"
+version="0.0.11.0"
+displayName="MemesProject Disc Reforge"
+credits="MCreator"
+displayURL="https://github.com/TexBlock"
+logoFile="logo.png"
+authors="TexTrue"
+description='''
+MemesProject Disc Addon
+'''
+
+[[dependencies.memesproject_redisc]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

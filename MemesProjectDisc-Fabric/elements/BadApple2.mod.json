@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "badapple",
+    "name": "Bad Apple !!",
+    "description": "Bad Apple !!-Alstroemeria Records",
+    "creativeTab": {
+      "value": "CUSTOM:MPD"
+    },
+    "music": {
+      "value": "CUSTOM:bad_apple2"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

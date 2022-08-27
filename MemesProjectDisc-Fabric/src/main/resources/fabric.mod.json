@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "memesprojectdisc",
+  "version": "0.1.0(Alpha1)",
+  "name": "MemesProjectDisc-Fabric",
+  "authors": [
+    "TexTrue,TexTrueStudio,MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/Fabric-Generator-MCreator"
+  },
+  "license": "MIT License",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.texstudio.memesprojectdisc.MemesprojectdiscMod"
+    ],
+    "client": [
+      "net.texstudio.memesprojectdisc.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*"
+  }
+}

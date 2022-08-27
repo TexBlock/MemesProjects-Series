@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "DREAMER",
+    "description": "EIKO starring Neko96 - DREAMER",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:dreamer"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

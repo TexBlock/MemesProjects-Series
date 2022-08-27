@@ -1,0 +1,130 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MemesProjectDisc",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "memes_project_disc"
+    },
+    {
+      "name": "BadApple",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bad_apple"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bad_apple",
+      "files": [
+        "bad_apple"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "bad_apple2",
+      "files": [
+        "bad_apple_"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "goyang_ubur_ubur_remixed",
+      "files": [
+        "goyanguburuburremixed"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "never_gonna_give_you_up",
+      "files": [
+        "nevergonnagiveyouup"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "night_voyager",
+      "files": [
+        "nightvoyager"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "shooting_stars",
+      "files": [
+        "shootingstars"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "freesia",
+      "files": [
+        "uru-freesia"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.memesprojectdisc.bad_apple.desc": "BadApple!!-幺乐団の歴史1-上海アリス幻樂団",
+      "subtitles.freesia": "",
+      "subtitles.bad_apple2": "",
+      "subtitles.night_voyager": "",
+      "item.memesprojectdisc.bad_apple": "Bad Apple!!",
+      "subtitles.bad_apple": "",
+      "subtitles.goyang_ubur_ubur_remixed": "",
+      "subtitles.never_gonna_give_you_up": "",
+      "itemGroup.memesprojectdisc.memes_project_disc": "Memes Project Disc",
+      "subtitles.shooting_stars": ""
+    },
+    "zh_cn": {
+      "item.memesprojectdisc.bad_apple.desc": "BadApple!!-幺乐団の歴史1-上海アリス幻樂団",
+      "subtitles.freesia": "",
+      "subtitles.bad_apple2": "",
+      "subtitles.night_voyager": "",
+      "item.memesprojectdisc.bad_apple": "Bad Apple!!",
+      "subtitles.bad_apple": "",
+      "subtitles.goyang_ubur_ubur_remixed": "",
+      "subtitles.never_gonna_give_you_up": "",
+      "itemGroup.memesprojectdisc.memes_project_disc": "Memes Project Disc",
+      "subtitles.shooting_stars": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesprojectdisc",
+    "modName": "MemesProjectDisc-Fabric",
+    "version": "0.1.0(Alpha1)",
+    "author": "TexTrue,TexTrueStudio,MCreator",
+    "license": "MIT License",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.texstudio.memesprojectdisc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100235315
+}

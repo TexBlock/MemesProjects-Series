@@ -1,0 +1,507 @@
+{
+  "mod_elements": [
+    {
+      "name": "DullBlade",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dull_blade"
+    },
+    {
+      "name": "MemesProjectWeapons",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "memes_project_weapons"
+    },
+    {
+      "name": "StoneGrainOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_grain_ore"
+    },
+    {
+      "name": "StoneGrainIngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_grain_ingot"
+    },
+    {
+      "name": "StoneGrainNugget",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_grain_nugget"
+    },
+    {
+      "name": "SGOreNugget",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sg_ore_nugget"
+    },
+    {
+      "name": "StoneGrainPlate",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_grain_plate"
+    },
+    {
+      "name": "StoneGrainBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_grain_block"
+    },
+    {
+      "name": "SGNuggetIngot",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sg_nugget_ingot"
+    },
+    {
+      "name": "SGIngotBlock",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sg_ingot_block"
+    },
+    {
+      "name": "MemesProjectMaterials",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "memes_project_materials"
+    },
+    {
+      "name": "SGBlockIngot",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sg_block_ingot"
+    },
+    {
+      "name": "SGIngotNugget",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sg_ingot_nugget"
+    },
+    {
+      "name": "ThisIsStoneGrain",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "this_is_stone_grain"
+    },
+    {
+      "name": "DullBladeCraft",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dull_blade_craft"
+    },
+    {
+      "name": "DullBladeIsTheSoleCriterionForTestingTruth",
+      "type": "achievement",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dull_blade_is_the_sole_criterion_for_testing_truth"
+    },
+    {
+      "name": "MemesProject",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "memes_project"
+    },
+    {
+      "name": "Donkeymeat",
+      "type": "food",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "donkeymeat"
+    },
+    {
+      "name": "DonkeymeatDangShiWuBeiChiShi",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "donkeymeat_dang_shi_wu_bei_chi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cookeddonkeymeat",
+      "type": "food",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cookeddonkeymeat"
+    },
+    {
+      "name": "DmToCdm",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dm_to_cdm"
+    },
+    {
+      "name": "DmToCdm2",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dm_to_cdm_2"
+    },
+    {
+      "name": "DmToCdm3",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dm_to_cdm_3"
+    },
+    {
+      "name": "AphrodisiacYaoShuiDaoQiShi",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphrodisiac_yao_shui_dao_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AphrodisiacDangYaoShuiXiaoGuoKaiShiYingYongShi",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphrodisiac_dang_yao_shui_xiao_guo_kai_shi_ying_yong_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AphrodisiacPotionItem",
+      "type": "potion",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphrodisiac"
+    },
+    {
+      "name": "BreadSlices",
+      "type": "food",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_slices"
+    },
+    {
+      "name": "Knife",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knife"
+    },
+    {
+      "name": "BreadSlicesCraft",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_slices_craft"
+    },
+    {
+      "name": "KnifeCraft",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knife_craft"
+    },
+    {
+      "name": "Cheese",
+      "type": "food",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese"
+    },
+    {
+      "name": "TwoBreadsWithCheese",
+      "type": "food",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "two_breads_with_cheese"
+    },
+    {
+      "name": "CheeseCraft",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_craft"
+    },
+    {
+      "name": "TBWCCraft",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tbwc_craft"
+    },
+    {
+      "name": "TBWC",
+      "type": "achievement",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tbwc"
+    },
+    {
+      "name": "TibetanFox",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tibetan_fox"
+    },
+    {
+      "name": "OlgaItsuka",
+      "type": "painting",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "olga_itsuka"
+    },
+    {
+      "name": "HeatingRadiator",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heating_radiator"
+    },
+    {
+      "name": "Toothpick",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toothpick"
+    },
+    {
+      "name": "DonkeyLoot",
+      "type": "loottable",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "donkey_loot"
+    },
+    {
+      "name": "Aphrodisiac",
+      "type": "potioneffect",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphrodisiac"
+    },
+    {
+      "name": "QCoinGay",
+      "type": "livingentity",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "q_coin_gay"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "night-voyager",
+      "files": [
+        "nightvoyager"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "goyang_ubur_ubur_remixed",
+      "files": [
+        "goyang_ubur_ubur_remixed"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "never_gonna_give_you_up",
+      "files": [
+        "never_gonna_give_you_up"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "shooting_stars",
+      "files": [
+        "shooting_stars"
+      ],
+      "category": "master",
+      "subtitle": "Shooting Stars - Bag Raiders"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.memesproject.q_coin_gay_spawn_egg": "Q Coin Gay Spawn Egg",
+      "item.memesproject.cookeddonkeymeat": "Cookeddonkeymeat",
+      "itemGroup.tabmemes_project_weapons": "Memes Project-Weapons",
+      "subtitles.night-voyager": "NightVoyager",
+      "item.memesproject.book.name": "Re:Leapt Through Time Life",
+      "item.minecraft.potion.effect.aphrodisiac": "Aphrodisiac",
+      "item.memesproject.tibetan_fox": "Tibetan Fox",
+      "item.minecraft.tipped_arrow.effect.aphrodisiac": "Arrow of Aphrodisiac",
+      "advancements.tbwc.descr": "We are going to form a two bread with cheese(Two-sided double-teaming)",
+      "item.memesproject.knife": "Knife",
+      "item.memesproject.dull_blade": "Dull Blade",
+      "advancements.this_is_stone_grain.descr": "This is Stone Grain Ore",
+      "advancements.memes_project.descr": "The start of the progress of this mod",
+      "item.memesproject.stone_grain_ingot": "Stone Grain Ingot",
+      "block.memesproject.stone_grain_block": "Stone Grain Block",
+      "advancements.memes_project.title": "Memes Project",
+      "item.memesproject.cheese": "Cheese",
+      "item.memesproject.knife.desc": "It\u0027s just knife...",
+      "advancements.tbwc.title": "Two Breads With Cheese?",
+      "advancements.dull_blade_is_the_sole_criterion_for_testing_truth.title": "Dull Blade Is The Sole Criterion For Testing Truth",
+      "item.minecraft.splash_potion.effect.aphrodisiac": "Splash Aphrodisiac",
+      "item.memesproject.stone_grain_plate": "Stone Grain Plate",
+      "item.minecraft.lingering_potion.effect.aphrodisiac": "Lingering Aphrodisiac",
+      "itemGroup.tabmemes_project_materials": "Memes Project Materials",
+      "advancements.this_is_stone_grain.title": "This Is Stone Grain Ore",
+      "item.memesproject.donkeymeat": "Donkeymeat",
+      "item.memesproject.toothpick": "Toothpick",
+      "item.memesproject.bread_slices": "Bread Slices",
+      "item.memesproject.two_breads_with_cheese": "Two Breads With Cheese",
+      "entity.memesproject.q_coin_gay": "Q Coin Gay",
+      "advancements.dull_blade_is_the_sole_criterion_for_testing_truth.descr": "Made a Dull Blade",
+      "item.memesproject.stone_grain_nugget": "Stone Grain Nugget",
+      "block.memesproject.stone_grain_ore": "Stone Grain Ore",
+      "item.memesproject.book.landing_text": "MemesProject manual",
+      "subtitles.never_gonna_give_you_up": "Never Gonna Give You Up",
+      "effect.aphrodisiac": "Aphrodisiac",
+      "block.memesproject.heating_radiator": "Heating Radiator"
+    },
+    "zh_cn": {
+      "item.memesproject.q_coin_gay_spawn_egg": "Q Coin Gay Spawn Egg",
+      "item.memesproject.cookeddonkeymeat": "熟驴肉",
+      "itemGroup.tabmemes_project_weapons": "梗之计划-武器",
+      "subtitles.night-voyager": "夜航星",
+      "item.memesproject.book.name": "Re:从零开始的穿越手册",
+      "item.minecraft.potion.effect.aphrodisiac": "春药",
+      "item.memesproject.tibetan_fox": "藏狐",
+      "item.minecraft.tipped_arrow.effect.aphrodisiac": "春药箭",
+      "advancements.tbwc.descr": "我们要形成一个 两面包夹芝士(两面包夹之势)",
+      "item.memesproject.knife": "小刀",
+      "item.memesproject.dull_blade": "石粒剑",
+      "advancements.this_is_stone_grain.descr": "这就是石粒",
+      "advancements.memes_project.descr": "这个mod的开始",
+      "item.memesproject.stone_grain_ingot": "石粒锭",
+      "block.memesproject.stone_grain_block": "石粒块",
+      "advancements.memes_project.title": "梗之计划",
+      "item.memesproject.cheese": "芝士",
+      "item.memesproject.knife.desc": "只是一把小刀",
+      "advancements.tbwc.title": "两面包夹芝士?",
+      "item.minecraft.splash_potion.effect.aphrodisiac": "喷溅型电脑配件",
+      "advancements.dull_blade_is_the_sole_criterion_for_testing_truth.title": "石（粒）剑是检验真理的唯一标准",
+      "item.memesproject.stone_grain_plate": "石粒板",
+      "item.minecraft.lingering_potion.effect.aphrodisiac": "滞留型电脑配件",
+      "itemGroup.tabmemes_project_materials": "梗之计划-材料",
+      "advancements.this_is_stone_grain.title": "这是石粒……矿？",
+      "item.memesproject.donkeymeat": "驴肉",
+      "item.memesproject.toothpick": "牙签儿",
+      "item.memesproject.two_breads_with_cheese": "两面包夹芝士",
+      "item.memesproject.bread_slices": "面包片",
+      "entity.memesproject.q_coin_gay": "Q Coin Gay",
+      "advancements.dull_blade_is_the_sole_criterion_for_testing_truth.descr": "做出一把石粒剑",
+      "item.memesproject.stone_grain_nugget": "石粒",
+      "block.memesproject.stone_grain_ore": "石粒矿",
+      "item.memesproject.book.landing_text": "梗之计划手册",
+      "subtitles.never_gonna_give_you_up": "Never Gonna Give You Up",
+      "effect.aphrodisiac": "电脑配件",
+      "block.memesproject.heating_radiator": "暖气片"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesproject",
+    "modName": "MemesProject-Forge",
+    "version": "0.1.5(0.1b5)",
+    "author": "TexBlock,TexTrueStudio",
+    "websiteURL": "https://github.com/block2333/MemesProject-Forge",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logoforge",
+    "requiredMods": [],
+    "dependencies": [
+      "catalogue"
+    ],
+    "dependants": [
+      "MemesProject-Disc"
+    ],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "MCreator,TexTrue(block2333),TexTrueStudio",
+    "modElementsPackage": "net.texstudio.memesproject",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

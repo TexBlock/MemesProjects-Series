@@ -1,0 +1,209 @@
+{
+  "egg_breaked": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:my_chicken_is_eight_years_old",
+        "stream": true
+      }
+    ]
+  },
+  "internet_overdose": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:kotoko-internet_overdose",
+        "stream": true
+      }
+    ]
+  },
+  "only_my_railgun": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:only_my_railgun",
+        "stream": true
+      }
+    ]
+  },
+  "be_crazy_for_me": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:be_crazy_for_me",
+        "stream": true
+      }
+    ]
+  },
+  "bad_apple_original": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:bad_apple_original",
+        "stream": true
+      }
+    ]
+  },
+  "bad_apple": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:bad_apple",
+        "stream": true
+      }
+    ]
+  },
+  "never_gonna_give_you_up": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:never_gonna_give_you_up",
+        "stream": true
+      }
+    ]
+  },
+  "freesia": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:freesia",
+        "stream": true
+      }
+    ]
+  },
+  "go_yang_ubur_ubur_remixed": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:go_yang_ubur_ubur_remixed",
+        "stream": true
+      }
+    ]
+  },
+  "night_voyager": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:night_voyager",
+        "stream": true
+      }
+    ]
+  },
+  "shooting_stars": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:shooting_stars",
+        "stream": true
+      }
+    ]
+  },
+  "dreamer": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:dreamer",
+        "stream": true
+      }
+    ]
+  },
+  "underworld": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:underworld",
+        "stream": true
+      }
+    ]
+  },
+  "underworld_eiko": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:underworld_eiko_ver",
+        "stream": true
+      }
+    ]
+  },
+  "shooting_star": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:shooting_star",
+        "stream": true
+      }
+    ]
+  },
+  "make_it_real": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:make_it_real",
+        "stream": true
+      }
+    ]
+  },
+  "choco_pate": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:chocopate",
+        "stream": true
+      }
+    ]
+  },
+  "im_still_alive_today": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:im_still_alive_today",
+        "stream": true
+      }
+    ]
+  },
+  "find_the_way": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:find_the_way",
+        "stream": true
+      }
+    ]
+  },
+  "im_still_alive_today_eiko_nanami": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:im_still_alive_today_eikonanami_ver",
+        "stream": true
+      }
+    ]
+  },
+  "im_still_alive_today_nanami": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:im_still_alive_today_nanami_ver",
+        "stream": true
+      }
+    ]
+  },
+  "im_still_alive_today_acoustic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:im_still_alive_today_acoustic_ver",
+        "stream": true
+      }
+    ]
+  },
+  "roppongi_udon_shop_provisional": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "memesproject_redisc:roppongi_udon_shop_provisional",
+        "stream": true
+      }
+    ]
+  }
+}

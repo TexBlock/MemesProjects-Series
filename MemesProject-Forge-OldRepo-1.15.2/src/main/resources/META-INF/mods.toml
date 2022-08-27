@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="memesproject"
+version="0.1.2(bata2)"
+displayName="MemesProject"
+credits="MCreator"
+displayURL="https://github.com/block2333/MemesProject-Forge"
+authors="TexBlock2333"
+
+[[dependencies.memesproject]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.memesproject]]
+    modId="patchouli"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.memesproject]]
+    modId="just_enough_items"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.memesproject]]
+    modId="curios"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.memesproject]]
+    modId="patchouli"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+

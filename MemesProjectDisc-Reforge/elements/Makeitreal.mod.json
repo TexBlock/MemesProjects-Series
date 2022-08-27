@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "Make it real",
+    "description": "MIA (CV.小林ゆう) - Make it real",
+    "creativeTab": {
+      "value": "CUSTOM:ParipiKoumei"
+    },
+    "music": {
+      "value": "CUSTOM:make_it_real"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

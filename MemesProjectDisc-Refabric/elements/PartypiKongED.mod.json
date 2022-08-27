@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "気分上々↑↑(Partypi Kong ED)",
+    "description": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）-気分上々↑↑",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:moodhigh_1st"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

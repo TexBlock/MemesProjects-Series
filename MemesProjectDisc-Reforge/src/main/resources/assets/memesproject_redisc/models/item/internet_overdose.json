@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "memesproject_redisc:items/placeholder_record"
+  }
+}

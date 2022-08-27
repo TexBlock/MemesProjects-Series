@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "チキチキバンバン(Paripi Koumei OP Full ver.)",
+    "description": "QUEENDOM-チキチキバンバン(Full ver.)",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:chikichikibanban_full"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

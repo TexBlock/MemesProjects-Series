@@ -1,0 +1,65 @@
+{
+  "bad_apple": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "memesprojectdisc:bad_apple",
+        "stream": true
+      }
+    ]
+  },
+  "bad_apple2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "memesprojectdisc:bad_apple_",
+        "stream": true
+      }
+    ]
+  },
+  "goyang_ubur_ubur_remixed": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "memesprojectdisc:goyanguburuburremixed",
+        "stream": true
+      }
+    ]
+  },
+  "never_gonna_give_you_up": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "memesprojectdisc:nevergonnagiveyouup",
+        "stream": true
+      }
+    ]
+  },
+  "night_voyager": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "memesprojectdisc:nightvoyager",
+        "stream": true
+      }
+    ]
+  },
+  "shooting_stars": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "memesprojectdisc:shootingstars",
+        "stream": true
+      }
+    ]
+  },
+  "freesia": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "memesprojectdisc:uru-freesia",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "popular_songs_records",
+    "name": "気分上々↑↑(Paripi Koumei ED Full ver.)",
+    "description": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）、KABE太人（CV.千葉翔也）、久遠七海 starring Lezel-気分上々↑↑(Full ver.)",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:moodhigh_full_ver"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

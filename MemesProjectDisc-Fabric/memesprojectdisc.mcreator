@@ -1,0 +1,195 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BadApple",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bad_apple"
+    },
+    {
+      "name": "MPD",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mpd"
+    },
+    {
+      "name": "BadApple2",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bad_apple_2"
+    },
+    {
+      "name": "ShootingStars",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shooting_stars"
+    },
+    {
+      "name": "NightVoyager",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "night_voyager"
+    },
+    {
+      "name": "NeverGonnaGiveYouUp",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "never_gonna_give_you_up"
+    },
+    {
+      "name": "GoyangUburUburRemixed",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goyang_ubur_ubur_remixed"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bad_apple",
+      "files": [
+        "bad_apple"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "bad_apple2",
+      "files": [
+        "bad_apple_"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "goyang_ubur_ubur_remixed",
+      "files": [
+        "goyanguburuburremixed"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "never_gonna_give_you_up",
+      "files": [
+        "nevergonnagiveyouup"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "night_voyager",
+      "files": [
+        "nightvoyager"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "shooting_stars",
+      "files": [
+        "shootingstars"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "freesia",
+      "files": [
+        "uru-freesia"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.memesprojectdisc.bad_apple_2.desc": "Bad Apple !!-Alstroemeria Records",
+      "subtitles.bad_apple2": "",
+      "subtitles.night_voyager": "",
+      "item.memesprojectdisc.bad_apple": "Bad Apple!!",
+      "subtitles.goyang_ubur_ubur_remixed": "",
+      "item.memesprojectdisc.shooting_stars.desc": "Shooting Stars-Bag Raiders",
+      "item.memesprojectdisc.never_gonna_give_you_up": "Never Gonna Give You Up",
+      "item.memesprojectdisc.goyang_ubur_ubur_remixed.desc": "GoyangUburUburRemixed-HendroEngkeng",
+      "item.memesprojectdisc.goyang_ubur_ubur_remixed": "Goyang Ubur Ubur Remixed",
+      "item.memesprojectdisc.night_voyager.desc": "NightVoyager-不才/三体宇宙",
+      "item.memesprojectdisc.bad_apple.desc": "BadApple!!-幺乐団の歴史1-上海アリス幻樂団",
+      "item.memesprojectdisc.never_gonna_give_you_up.desc": "Never Gonna Give You Up-Rick Astley",
+      "subtitles.freesia": "",
+      "item.memesprojectdisc.shooting_stars": "Shooting Stars",
+      "subtitles.bad_apple": "",
+      "item.memesprojectdisc.bad_apple_2": "Bad Apple !!",
+      "itemGroup.memesprojectdisc.mpd": "MemesProjectDisc",
+      "subtitles.never_gonna_give_you_up": "",
+      "item.memesprojectdisc.night_voyager": "Night Voyager",
+      "subtitles.shooting_stars": ""
+    },
+    "zh_cn": {
+      "item.memesprojectdisc.bad_apple_2.desc": "Bad Apple !!-Alstroemeria Records",
+      "subtitles.bad_apple2": "",
+      "subtitles.night_voyager": "",
+      "item.memesprojectdisc.bad_apple": "Bad Apple!!",
+      "subtitles.goyang_ubur_ubur_remixed": "",
+      "item.memesprojectdisc.shooting_stars.desc": "Shooting Stars-Bag Raiders",
+      "item.memesprojectdisc.never_gonna_give_you_up": "Never Gonna Give You Up",
+      "item.memesprojectdisc.goyang_ubur_ubur_remixed.desc": "GoyangUburUburRemixed-HendroEngkeng",
+      "item.memesprojectdisc.goyang_ubur_ubur_remixed": "Goyang Ubur Ubur Remixed",
+      "item.memesprojectdisc.night_voyager.desc": "NightVoyager-不才/三体宇宙",
+      "item.memesprojectdisc.bad_apple.desc": "BadApple!!-幺乐団の歴史1-上海アリス幻樂団",
+      "item.memesprojectdisc.never_gonna_give_you_up.desc": "Never Gonna Give You Up-Rick Astley",
+      "subtitles.freesia": "",
+      "item.memesprojectdisc.shooting_stars": "Shooting Stars",
+      "subtitles.bad_apple": "",
+      "item.memesprojectdisc.bad_apple_2": "Bad Apple !!",
+      "itemGroup.memesprojectdisc.mpd": "MemesProjectDisc",
+      "subtitles.never_gonna_give_you_up": "",
+      "item.memesprojectdisc.night_voyager": "Night Voyager",
+      "subtitles.shooting_stars": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesprojectdisc",
+    "modName": "MemesProjectDisc-Fabric",
+    "version": "0.1.0(Alpha1)",
+    "author": "TexTrue,TexTrueStudio,MCreator",
+    "license": "MIT License",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.texstudio.memesprojectdisc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100235315
+}
